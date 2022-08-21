@@ -14,3 +14,5 @@
 [![](https://user-images.githubusercontent.com/6134875/185771379-d5f8b751-b508-4a7e-9715-bda47d80dde7.png)](https://armorgames.com/telepobox-2-game/19258)
 
 ![](https://github-readme-stats.vercel.app/api?username=baba-s&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=compact&card_width=100)
+
+[![](https://img.shields.io/twitter/follow/baba_s_?label=Twitter&logo=twitter&style=flat)](https://twitter.com/baba_s_) [![](https://img.shields.io/github/followers/baba-s?label=follow&logo=github&style=flat)](https://github.com/baba-s) [![](https://qiita-badge.apiapi.app/s/baba_s/posts.svg) ](https://qiita.com/baba_s) [![](https://qiita-badge.apiapi.app/s/baba_s/contributions.svg)](https://qiita.com/baba_s)
