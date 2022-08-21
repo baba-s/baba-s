@@ -1,5 +1,3 @@
-![](https://github-readme-stats.vercel.app/api?username=baba-s&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=compact)
-
 [![](https://user-images.githubusercontent.com/6134875/185771324-5c8f09d8-50aa-412e-bdc1-3d1d3df6403f.png)](https://armorgames.com/economical-game/18860)
 [![](https://user-images.githubusercontent.com/6134875/185771326-4e81adec-6457-4234-a26a-d8d9f3383b1c.png)](https://armorgames.com/frugal-knight-game/18887)
 [![](https://user-images.githubusercontent.com/6134875/185771334-2a8c8477-d211-4e89-9327-8e7d2b4ed0f2.png)](https://armorgames.com/one-screen-run-game/19013)
@@ -14,3 +12,5 @@
 [![](https://user-images.githubusercontent.com/6134875/185771377-6852c47d-97d1-4367-bd3c-f7d52a14122f.png)](https://armorgames.com/erase-box-game/19256)
 [![](https://user-images.githubusercontent.com/6134875/185771378-5db1de57-f89a-4a4f-aeea-839fa98dc443.png)](https://armorgames.com/slide-box-2-game/19257)
 [![](https://user-images.githubusercontent.com/6134875/185771379-d5f8b751-b508-4a7e-9715-bda47d80dde7.png)](https://armorgames.com/telepobox-2-game/19258)
+
+![](https://github-readme-stats.vercel.app/api?username=baba-s&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=compact)
