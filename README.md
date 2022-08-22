@@ -1,3 +1,4 @@
+[![](https://user-images.githubusercontent.com/6134875/185914097-ea19b907-11d8-4e00-a358-dcc6e2fa622a.png)](https://store-jp.nintendo.com/list/software/70010000015506.html)
 [![](https://user-images.githubusercontent.com/6134875/185771324-5c8f09d8-50aa-412e-bdc1-3d1d3df6403f.png)](https://armorgames.com/economical-game/18860)
 [![](https://user-images.githubusercontent.com/6134875/185771326-4e81adec-6457-4234-a26a-d8d9f3383b1c.png)](https://armorgames.com/frugal-knight-game/18887)
 [![](https://user-images.githubusercontent.com/6134875/185771334-2a8c8477-d211-4e89-9327-8e7d2b4ed0f2.png)](https://armorgames.com/one-screen-run-game/19013)
