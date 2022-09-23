@@ -19,5 +19,3 @@
 [![](https://github-profile-trophy.vercel.app/?username=baba-s&rank=-C,-B&margin-w=4)](https://github.com/baba-s)
 
 [![](https://img.shields.io/twitter/follow/baba_s_?label=Twitter&logo=twitter&style=flat)](https://twitter.com/baba_s_) [![](https://img.shields.io/github/followers/baba-s?label=follow&logo=github&style=flat)](https://github.com/baba-s) [![](https://qiita-badge.apiapi.app/s/baba_s/posts.svg) ](https://qiita.com/baba_s) [![](https://qiita-badge.apiapi.app/s/baba_s/contributions.svg)](https://qiita.com/baba_s)
-
-![](https://activity-graph.herokuapp.com/graph?username=baba-s&theme=github-light)
