@@ -16,6 +16,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=baba-s&hide=contribs&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=compact&card_width=100)
 
-[![](https://github-profile-trophy.vercel.app/?username=baba-s&rank=-C,-B&margin-w=4)](https://github.com/baba-s)
+[![](https://git-stars.com/share/embed/baba-s.svg)](https://git-stars.com/user/baba-s) [![](https://github-profile-trophy.vercel.app/?username=baba-s&rank=-C,-B&margin-w=4)](https://github.com/baba-s)
 
 [![](https://img.shields.io/twitter/follow/baba_s_?label=Twitter&logo=twitter&style=flat)](https://twitter.com/baba_s_) [![](https://img.shields.io/github/followers/baba-s?label=follow&logo=github&style=flat)](https://github.com/baba-s) [![](https://qiita-badge.apiapi.app/s/baba_s/posts.svg) ](https://qiita.com/baba_s) [![](https://qiita-badge.apiapi.app/s/baba_s/contributions.svg)](https://qiita.com/baba_s)
