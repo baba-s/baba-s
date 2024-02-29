@@ -24,4 +24,6 @@
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![](https://skillicons.dev/icons?i=cs,firebase,git,github,jenkins,md,py,rider,unity,vscode)](https://skillicons.dev)
+
 [![](https://img.shields.io/twitter/follow/baba_s_?label=Twitter&logo=twitter&style=flat)](https://twitter.com/baba_s_) [![](https://img.shields.io/github/followers/baba-s?label=follow&logo=github&style=flat)](https://github.com/baba-s) [![](https://qiita-badge.apiapi.app/s/baba_s/posts.svg) ](https://qiita.com/baba_s) [![](https://qiita-badge.apiapi.app/s/baba_s/contributions.svg)](https://qiita.com/baba_s)
