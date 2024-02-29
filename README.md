@@ -17,10 +17,11 @@
 [![](https://github.com/baba-s/baba-s/assets/6134875/cec5d67c-868c-4f5a-9b08-10799297c91c)](https://armorgames.com/rotate-box-game/19321)
 [![](https://github.com/baba-s/baba-s/assets/6134875/d93d9097-d0cb-4176-8b76-ee38e13539dc)](https://armorgames.com/ninja-auto-run-game/19320)
 
-![](https://github-readme-stats.vercel.app/api?username=baba-s&hide=contribs&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=compact&card_width=100)
+[![](https://github-readme-stats.vercel.app/api?username=baba-s&hide=contribs&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=compact&card_width=100&)](https://github.com/anuraghazra/github-readme-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=github)
+[![](https://github-profile-trophy.vercel.app/?username=baba-s&rank=-C,-B&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![](https://github-profile-trophy.vercel.app/?username=baba-s&rank=-C,-B&margin-w=4)](https://github.com/baba-s)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://img.shields.io/twitter/follow/baba_s_?label=Twitter&logo=twitter&style=flat)](https://twitter.com/baba_s_) [![](https://img.shields.io/github/followers/baba-s?label=follow&logo=github&style=flat)](https://github.com/baba-s) [![](https://qiita-badge.apiapi.app/s/baba_s/posts.svg) ](https://qiita.com/baba_s) [![](https://qiita-badge.apiapi.app/s/baba_s/contributions.svg)](https://qiita.com/baba_s)
