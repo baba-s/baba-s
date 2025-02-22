@@ -23,7 +23,7 @@
 
 [![](https://github-profile-trophy.vercel.app/?username=baba-s&no-bg=true&theme=darkhub&rank=-C,-B&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=baba_s&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
