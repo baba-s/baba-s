@@ -19,7 +19,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=baba-s&theme=transparent&hide=contribs&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&theme=transparent&layout=compact&card_width=100&)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://streak-stats.demolab.com?user=baba-s&locale=ja&mode=weekly)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com?user=baba-s&theme=dark&locale=ja&mode=weekly)](https://git.io/streak-stats)
 
 [![](https://github-profile-trophy.vercel.app/?username=baba-s&no-bg=true&theme=darkhub&rank=-C,-B&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
