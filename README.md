@@ -17,15 +17,15 @@
 [![](https://github.com/baba-s/baba-s/assets/6134875/cec5d67c-868c-4f5a-9b08-10799297c91c)](https://armorgames.com/rotate-box-game/19321)
 [![](https://github.com/baba-s/baba-s/assets/6134875/d93d9097-d0cb-4176-8b76-ee38e13539dc)](https://armorgames.com/ninja-auto-run-game/19320)
 
-[![](https://github-readme-stats.vercel.app/api?username=baba-s&theme=dracula#gh-dark-mode-only&hide=contribs&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&theme=dracula#gh-dark-mode-only&layout=compact&card_width=100&)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=baba-s&theme=dracula#gh-dark-mode-only&hide=contribs&include_all_commits=true&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&theme=dracula#gh-dark-mode-only&layout=compact&card_width=100&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://streak-stats.demolab.com?user=baba-s&theme=dark&locale=ja&mode=weekly)](https://git.io/streak-stats)
 
 [![](https://github-profile-trophy.vercel.app/?username=baba-s&theme=dracula&rank=-C,-B&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baba-s&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=baba_s&theme=dracula#gh-dark-mode-only&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=baba_s&theme=dracula#gh-dark-mode-only&langs_count=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://skillicons.dev/icons?i=cs,firebase,git,github,jenkins,md,py,rider,unity,vscode,wordpress)](https://skillicons.dev)
 
