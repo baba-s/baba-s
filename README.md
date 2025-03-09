@@ -17,6 +17,8 @@
 [![](https://github.com/baba-s/baba-s/assets/6134875/cec5d67c-868c-4f5a-9b08-10799297c91c)](https://armorgames.com/rotate-box-game/19321)
 [![](https://github.com/baba-s/baba-s/assets/6134875/d93d9097-d0cb-4176-8b76-ee38e13539dc)](https://armorgames.com/ninja-auto-run-game/19320)
 
+[![](https://github-readme-activity-graph.vercel.app/graph?username=baba-s&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![](https://github-readme-stats.vercel.app/api?username=baba-s&hide=contribs&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=baba-s&layout=compact&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://streak-stats.demolab.com?user=baba-s&locale=ja&mode=weekly)](https://git.io/streak-stats)
